@@ -1,1 +1,4 @@
 
+netmiko
+paramiko
+ansible
